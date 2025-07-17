@@ -1,0 +1,8 @@
+{
+  "speech_rate": 200,
+  "speech_volume": 0.8,
+  "voice_index": 0,
+  "timeout": 5,
+  "phrase_time_limit": 8,
+  "pause_threshold": 1.0
+}

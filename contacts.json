@@ -1,0 +1,17 @@
+[
+  {
+    "name": "mummy",
+    "phone": "+9198288xxxxx",
+    "aliases": ["mom", "mother"]
+  },
+  {
+    "name": "papa",
+    "phone": "+9172310xxxxx",
+    "aliases": ["dad", "father"]
+  },
+  {
+    "name": "myself",
+    "phone": "+9191668xxxxx",
+    "aliases": ["me", "self"]
+  }
+]
